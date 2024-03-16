@@ -10,3 +10,8 @@ ___
 * [Leverage Trading and Margin Trading](7.LTAMT.md)
 * [Risk Hedging and Derivatives](8.RHAD.md)
 * [Algorithmic Trading and Quantitative Analysis](9.ATAQA.md)
+
+
+___
+
+Web - [Demo](https://wikicrafter.github.io/CGTCTrading/)
